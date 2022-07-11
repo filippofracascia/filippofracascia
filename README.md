@@ -10,4 +10,4 @@ Currently working on computer vision and computer graphics.
 
 ***
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Filippo Fracascia)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filippo99)](https://github.com/anuraghazra/github-readme-stats)
